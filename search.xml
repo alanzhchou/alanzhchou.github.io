@@ -3,16 +3,38 @@
   
     
     <entry>
-      <title>测试文章</title>
-      <link href="/2018/12/04/%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2/hello-world/"/>
-      <url>/2018/12/04/%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2/hello-world/</url>
+      <title>links</title>
+      <link href="/2018/12/05/links/"/>
+      <url>/2018/12/05/links/</url>
       
-        <content type="html"><![CDATA[<ol><li><p>插入链接</p><blockquote><p><a href="http://localhost:4000/" target="_blank" rel="noopener">test link</a></p></blockquote></li><li><p>插入图片</p><blockquote><p><img src="/images/20181205-helloworld/icon.png" alt="test.png"></p></blockquote></li></ol><a id="more"></a><ol start="3"><li><p>插入代码</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String agrs[])</span></span>&#123;</span><br><span class="line">    System.out.println(<span class="string">"hello world"</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li><li><p>插入视频</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&lt;iframe src=<span class="string">"https://www.youtube.com/embed/P2r9U4wkjcc"</span> frameborder=<span class="string">"0"</span> allowfullscreen&gt;&lt;/iframe&gt;</span><br><span class="line"></span><br><span class="line">&lt;iframe src=<span class="string">"https://player.vimeo.com/video/304424799"</span> frameborder=<span class="string">"0"</span> webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</span><br><span class="line"></span><br><span class="line">&lt;iframe src=<span class="string">"//player.bilibili.com/player.html?aid=36792496&amp;cid=64610082&amp;page=1"</span> scrolling=<span class="string">"no"</span> width=<span class="string">"640"</span> height=<span class="string">"430"</span> border=<span class="string">"0"</span> frameborder=<span class="string">"no"</span> framespacing=<span class="string">"0"</span> allowfullscreen=<span class="string">"true"</span>&gt; &lt;/iframe&gt;</span><br></pre></td></tr></table></figure></li></ol><center><br><iframe src="https://www.youtube.com/embed/P2r9U4wkjcc" frameborder="0" allowfullscreen></iframe><br></center><center><br><iframe src="https://player.vimeo.com/video/304424799" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen></iframe><br></center><center><br><iframe src="//player.bilibili.com/player.html?aid=36792496&cid=64610082&page=1" scrolling="no" width="640" height="430" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br></center>]]></content>
+        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a>links</h1><a id="more"></a><center><br><img src="/images/donate/both.png" alt="觉得对您有帮助 请赞助/if it helps, could you give me donation" style="width:50%;"><br></center>]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>About</title>
+      <link href="/2018/12/05/about/"/>
+      <url>/2018/12/05/about/</url>
+      
+        <content type="html"><![CDATA[<h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><a id="more"></a><blockquote><p>我是?</p></blockquote><blockquote><p>我在?</p></blockquote><blockquote><p>我做?</p></blockquote><center><br><img src="/images/donate/both.png" alt="觉得对您有帮助 可以小小地赞助一下吗?/if it helps, could you donate?" style="width:50%;"><br></center>]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>测试文章</title>
+      <link href="/2018/12/04/Helloworld/Helloworld-hexo/"/>
+      <url>/2018/12/04/Helloworld/Helloworld-hexo/</url>
+      
+        <content type="html"><![CDATA[<ol><li>插入链接<blockquote><p><a href="http://localhost:4000/" target="_blank" rel="noopener">test link</a></p></blockquote></li></ol><a id="more"></a><ol start="2"><li><p>插入图片</p><blockquote><p><img src="/images/20181205-helloworld/icon.png" alt="test.png"></p></blockquote></li><li><p>插入代码</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String agrs[])</span></span>&#123;</span><br><span class="line">    System.out.println(<span class="string">"hello world"</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li><li><p>插入视频</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&lt;iframe src=<span class="string">"https://www.youtube.com/embed/P2r9U4wkjcc"</span> frameborder=<span class="string">"0"</span> allowfullscreen&gt;&lt;/iframe&gt;</span><br><span class="line"></span><br><span class="line">&lt;iframe src=<span class="string">"https://player.vimeo.com/video/304424799"</span> frameborder=<span class="string">"0"</span> webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</span><br><span class="line"></span><br><span class="line">&lt;iframe src=<span class="string">"//player.bilibili.com/player.html?aid=36792496&amp;cid=64610082&amp;page=1"</span> scrolling=<span class="string">"no"</span> width=<span class="string">"640"</span> height=<span class="string">"430"</span> border=<span class="string">"0"</span> frameborder=<span class="string">"no"</span> framespacing=<span class="string">"0"</span> allowfullscreen=<span class="string">"true"</span>&gt; &lt;/iframe&gt;</span><br></pre></td></tr></table></figure></li></ol><center><br><iframe src="https://www.youtube.com/embed/P2r9U4wkjcc" frameborder="0" allowfullscreen></iframe><br></center><center><br><iframe src="https://player.vimeo.com/video/304424799" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen></iframe><br></center><center><br><iframe src="//player.bilibili.com/player.html?aid=36792496&cid=64610082&page=1" scrolling="no" width="640" height="430" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br></center>]]></content>
       
       
       <categories>
           
-          <category> 测试页面 </category>
+          <category> Helloworld </category>
           
       </categories>
       
@@ -22,6 +44,8 @@
             <tag> test </tag>
             
             <tag> hexo </tag>
+            
+            <tag> helloworld </tag>
             
         </tags>
       

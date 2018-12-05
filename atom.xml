@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Alan 小站</title>
+  
+  <subtitle>立德立言，无问西东</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://alanzhchou.github.io/"/>
+  <updated>2018-12-05T15:58:36.761Z</updated>
+  <id>https://alanzhchou.github.io/</id>
+  
+  <author>
+    <name>Alan Chou</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>links</title>
+    <link href="https://alanzhchou.github.io/2018/12/05/links/"/>
+    <id>https://alanzhchou.github.io/2018/12/05/links/</id>
+    <published>2018-12-05T15:57:39.000Z</published>
+    <updated>2018-12-05T15:58:36.761Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;links&lt;/h1&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>About</title>
+    <link href="https://alanzhchou.github.io/2018/12/05/about/"/>
+    <id>https://alanzhchou.github.io/2018/12/05/about/</id>
+    <published>2018-12-05T15:23:20.000Z</published>
+    <updated>2018-12-05T16:03:09.715Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;关于我&quot;&gt;&lt;a href=&quot;#关于我&quot; class=&quot;headerlink&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;关于我&lt;/h1&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>测试文章</title>
+    <link href="https://alanzhchou.github.io/2018/12/04/Helloworld/Helloworld-hexo/"/>
+    <id>https://alanzhchou.github.io/2018/12/04/Helloworld/Helloworld-hexo/</id>
+    <published>2018-12-04T15:16:51.889Z</published>
+    <updated>2018-12-05T15:34:03.939Z</updated>
+    
+    <summary type="html">
+    
+      &lt;ol&gt;
+&lt;li&gt;插入链接&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;test link&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+    
+    </summary>
+    
+      <category term="Helloworld" scheme="https://alanzhchou.github.io/categories/Helloworld/"/>
+    
+    
+      <category term="test" scheme="https://alanzhchou.github.io/tags/test/"/>
+    
+      <category term="hexo" scheme="https://alanzhchou.github.io/tags/hexo/"/>
+    
+      <category term="helloworld" scheme="https://alanzhchou.github.io/tags/helloworld/"/>
+    
+  </entry>
+  
+</feed>
