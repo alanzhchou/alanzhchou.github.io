@@ -1,0 +1,1 @@
+import{_ as t,o as c,c as n,t as e}from"./index-b76d426c.js";const r={};function s(o,a){return c(),n("div",null,e("home")+" - "+e(o.$t("common.hello")),1)}const m=t(r,[["render",s]]);export{m as default};
